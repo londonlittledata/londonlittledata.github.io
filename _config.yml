@@ -2,7 +2,7 @@ title:            London Little Data
 tagline:          A data meetup for everyone
 description:      A meetup for everyone with little data sets
 #Comment out url when working locally to resolve base urls correctly
-url: http://londonlittledata.github.io
+url: http://londonlittledata.org
 
 # Owner/author information
 owner:
@@ -21,6 +21,12 @@ links:
     url: /about
   - title: Ideas
     url: /ideas
+  - title: Twitter
+    url: https://twitter.com/lndnlittledata
+    external: true
+  - title: Email Us
+    url: mailto:team@londonlittledata.org
+    external: true
   - title: Edit this page
     url: https://github.com/londonlittledata/londonlittledata.github.io
     external: true
