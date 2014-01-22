@@ -27,9 +27,6 @@ links:
   - title: Email Us
     url: mailto:team@londonlittledata.org
     external: true
-  - title: Edit this page
-    url: https://github.com/londonlittledata/londonlittledata.github.io
-    external: true
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone:    Europe/London
