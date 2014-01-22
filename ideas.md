@@ -1,12 +1,10 @@
 ---
 layout: post
 permalink: /ideas/index.html
-title: Ideas for Themes
+title: Ideas for Meetup Themes
 description: Ideas for meetup themes and talks
 tags: [ideas]
 ---
-
-# Ideas for meetup themes
 
 ## Environment
 
