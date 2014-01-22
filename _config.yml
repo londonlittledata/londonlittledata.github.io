@@ -18,9 +18,9 @@ owner:
 # For external links add external: true
 links:
   - title: About
-    url: /about
+    url: /about/
   - title: Ideas
-    url: /ideas
+    url: /ideas/
   - title: Twitter
     url: https://twitter.com/lndnlittledata
     external: true
