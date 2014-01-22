@@ -19,6 +19,8 @@ owner:
 links:
   - title: About
     url: /about
+  - title: Ideas
+    url: /ideas
   - title: Edit this page
     url: https://github.com/londonlittledata/londonlittledata.github.io
     external: true
